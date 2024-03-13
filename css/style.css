@@ -466,8 +466,8 @@ a.fa:focus{
 
 .section,
 .section-lg{
-  padding-top: 100px;
-  padding-bottom: 50px;
+  padding-top: 80px;
+  padding-bottom: 20px;
 }
 
 .section-sm{
@@ -488,7 +488,7 @@ a.fa:focus{
 }
 
 .section-body{
-  margin-top: 80px;
+  margin-top: 0px;
 }
 
 .top-space{
@@ -963,7 +963,7 @@ a.fa:focus{
 }
 
 .column{
-  margin-top: 50px;
+  margin-top: 20px;
 }
 
 
@@ -1756,7 +1756,7 @@ body:not(.modal-open){
 
 
   .section{
-    padding-top: 140px;
+    padding-top: 80px;
     padding-bottom: 10px;
   }
 
