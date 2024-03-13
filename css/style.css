@@ -467,7 +467,7 @@ a.fa:focus{
 .section,
 .section-lg{
   padding-top: 100px;
-  padding-bottom: 100px;
+  padding-bottom: 50px;
 }
 
 .section-sm{
@@ -1757,7 +1757,7 @@ body:not(.modal-open){
 
   .section{
     padding-top: 140px;
-    padding-bottom: 140px;
+    padding-bottom: 10px;
   }
 
   .section-lg{
@@ -1943,6 +1943,3 @@ body:not(.modal-open){
     padding: 300px 0 230px;
   }
 }
-
-
-
